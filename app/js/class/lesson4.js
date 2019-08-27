@@ -37,3 +37,8 @@
 {
     console.log('1'.padStart(2,'0'));
 }
+
+
+{
+    console.log(String.raw())
+}
